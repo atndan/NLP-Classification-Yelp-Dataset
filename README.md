@@ -1,1 +1,1 @@
-NLP practicing with Yelp Kaggle Dataset. 
+simple NLP practicing with Yelp Kaggle Dataset. 
